@@ -126,5 +126,5 @@ This project demonstrates an end-to-end Data Analytics workflow, starting from r
 
 **Armaan Tiwari**
 
-Aspiring Data Analyst passionate about SQL, Power BI, Excel, and Data Visualization.
+Aspiring Data Analyst
 
